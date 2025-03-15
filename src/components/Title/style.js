@@ -5,13 +5,13 @@ const styles = StyleSheet.create({
         alignItems: "center",
         justifyContent: "center",
         padding: 10
-
     },
-    textTitle:{
-        color: "#ff0043",
+
+    textTitle: {
+        color: "#1976D2", // Azul médio
         fontSize: 24,
         fontWeight: "bold"
-    }
+    },
 });
 
 export default styles
